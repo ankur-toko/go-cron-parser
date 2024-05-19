@@ -1,5 +1,5 @@
 build:
-	go build -o cparse .
+	go build -o go-cron-parse .
 run:
 	go run .
 
